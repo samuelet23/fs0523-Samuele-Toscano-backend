@@ -8,7 +8,9 @@ public class esercizio1 {
         String[] array = {"ciao", "ciao1", "ciao2", "Ciao3", "Ciao4"};
         String stringa = "Nuova stringa";
         String[] results = inserisciInArray(array,stringa);
-        System.out.println(results);
+        for (String elemento : results) {
+            System.out.println(elemento);
+        }
     }
     static int moltiplica(int number, int number2){
         return number*number2;
