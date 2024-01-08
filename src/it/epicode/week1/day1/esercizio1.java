@@ -10,6 +10,7 @@ public class esercizio1 {
         String[] results = inserisciInArray(array,stringa);
         for (String elemento : results) {
             System.out.println(elemento);
+
         }
     }
     static int moltiplica(int number, int number2){
