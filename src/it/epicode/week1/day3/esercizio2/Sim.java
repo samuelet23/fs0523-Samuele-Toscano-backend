@@ -14,12 +14,16 @@ public class Sim {
     }
 
         public void effettuaChiamata(double durata, String numeroChiamato){
-            Chiamate chiamata = new Chiamate(durata, numeroChiamato);
-            list.addFirst(chiamata);
-            if (list.size() > 5){
-                list.remove(5);
+            if(creditoDisponibile > 0){
+                Chiamate chiamata = new Chiamate(durata, numeroChiamato);
+                list.addFirst(chiamata);
+                if (list.size() > 5){
+                    list.remove(5);
+                }
+                creditoDisponibile -= costoChiamata(durata);
             }
-            creditoDisponibile -= costoChiamata(durata);
+            System.out.println("Il tuo credito è inferiore o uguale a 0. Effettua una ricarica");
+
         }
         private double costoChiamata(double durata){
             return 0.20*durata;
@@ -41,11 +45,8 @@ public class Sim {
         System.out.println("Scrivi il tuo numero di telefono");
         String number = scanner.next();
         Sim sim = new Sim(number, 0);
-        sim.effettuaRicarica(20);
         sim.effettuaChiamata(2.0, "3477798014");
-        sim.effettuaChiamata(3.0, "3477798014");
-        sim.effettuaChiamata(4.0, "3477798014");
-        sim.effettuaChiamata(1.0, "3477798014");
+
         sim.stampaDatiSim();
     }
 }
