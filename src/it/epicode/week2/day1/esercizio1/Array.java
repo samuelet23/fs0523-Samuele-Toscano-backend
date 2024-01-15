@@ -1,4 +1,4 @@
-package it.epicode.week2.day1;
+package it.epicode.week2.day1.esercizio1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
