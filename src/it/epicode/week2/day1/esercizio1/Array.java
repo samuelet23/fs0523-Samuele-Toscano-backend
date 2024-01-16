@@ -7,6 +7,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Array {
+        static Logger logger = LoggerFactory.getLogger("esercizio 1");
     public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
@@ -21,28 +22,27 @@ public class Array {
         for (int i = 0; i < arrayInt.length; i++) {
             System.out.println("Array" + arrayInt[i]);
         }
+        logger.info("Array creato");
 
-
-        int numInserito = 1;
+        int numInserito = 0;
         do {
             System.out.println("In che posizione vuoi metterlo?");
-            System.out.println("Inserisci la posizione 0 per uscire");
             int numPosizione = scanner.nextInt();
             if (numPosizione == 0) {
                 return;
             }
 
-
+            try{
                 System.out.println("Inserisci un numero nell'array");
                 numInserito = scanner.nextInt();
-                if (numPosizione > 0 && numPosizione <= 5) {
                     arrayInt[numPosizione - 1] = numInserito;
                     for (int i = 0; i < arrayInt.length; i++) {
-                    System.out.println(arrayInt[i]);
+                        System.out.println(arrayInt[i]);
                     }
-                } else {
-                    System.out.println("Errore: La posizione deve essere compresa tra 1 e 5.");
+                } catch (ArrayIndexOutOfBoundsException e){
+                    logger.error("Errore: La posizione deve essere compresa tra 1 e 5.",e);
                 }
+            System.out.println("Inserisci la posizione 0 per uscire");
 
         } while (numInserito != 0);
 
