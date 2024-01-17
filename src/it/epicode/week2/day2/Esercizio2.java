@@ -39,15 +39,11 @@ public class Esercizio2 {
     }
 
     public static void pariDispari(List<Integer> lista, boolean booleano){
-        if (booleano) {
+
             for (int n: lista){
-                if (n % 2 == 0 ) {
+                if (booleano && n % 2 == 0 ) {
                 System.out.println(n);
-                }
-            }
-        }else {
-            for (int n : lista){
-                if (!(n % 2 == 0))  {
+                } else if (!(n % 2 == 0))  {
                     System.out.println(n);
                 }
             }
@@ -56,4 +52,3 @@ public class Esercizio2 {
 
 
 
-}
