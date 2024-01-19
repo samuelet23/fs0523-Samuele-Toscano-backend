@@ -1,4 +1,4 @@
-package week2.prgettoSettimanale;
+package week2.day5.prgettoSettimanale;
 
 public enum Periodicità {
 

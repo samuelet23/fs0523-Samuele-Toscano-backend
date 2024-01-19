@@ -1,14 +1,12 @@
-package week2.prgettoSettimanale;
+package week2.day5.prgettoSettimanale;
 
 
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.time.LocalDate;
 import java.time.Year;
 import java.util.HashSet;
-import java.util.Random;
 import java.util.Set;
 
 public abstract class Catalogo {

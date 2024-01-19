@@ -1,16 +1,15 @@
-package week2.prgettoSettimanale;
+package week2.day5.prgettoSettimanale;
 
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
-import java.rmi.RemoteException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static week2.prgettoSettimanale.Catalogo.logger;
+import static week2.day5.prgettoSettimanale.Catalogo.logger;
 
 public class Archivio {
 

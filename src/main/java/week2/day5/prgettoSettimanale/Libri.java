@@ -1,8 +1,4 @@
-package week2.prgettoSettimanale;
-
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Set;
+package week2.day5.prgettoSettimanale;
 
 public class Libri extends Catalogo {
 
