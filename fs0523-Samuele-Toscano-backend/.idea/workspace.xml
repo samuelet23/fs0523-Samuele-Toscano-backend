@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fe2e522-fed1-42ab-a513-ee5143c83758" name="Changes" comment="week 2 day 3 esercizio  completato" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2azg1J9AmGOuwerRru9nE5q9l4j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Banca.executor": "Run",
+    "Application.Date.executor": "Run",
+    "Application.Esercizio1.executor": "Run",
+    "Application.Esercizio2.executor": "Run",
+    "Application.Esercizio3.executor": "Run",
+    "Application.auto.executor": "Run",
+    "Application.usaSito.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samuele Toscano/Downloads/slf4j-api-2.0.9.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samuele Toscano\Desktop\fs0523-Samuele-Toscano-backend\src" />
+      <recent name="C:\Users\Samuele Toscano\Desktop\fs0523-Samuele-Toscano-backend\src\it" />
+      <recent name="C:\Users\Samuele Toscano\Desktop\fs0523-Samuele-Toscano-backend\src\it\epicode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="it.epicode.week2.day3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe2e522-fed1-42ab-a513-ee5143c83758" name="Changes" comment="" />
+      <created>1705326605648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705326605648</updated>
+    </task>
+    <task id="LOCAL-00001" summary="week 2 day 1 esercizio 1 completato">
+      <option name="closed" value="true" />
+      <created>1705331977588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705331977588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week 2 day 1 esercizio 1 completato">
+      <option name="closed" value="true" />
+      <created>1705333031500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705333031500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week 2 day 1 esercizio 1 completato">
+      <option name="closed" value="true" />
+      <created>1705333871746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705333871746</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week 2 day 2 esercizio  completato">
+      <option name="closed" value="true" />
+      <created>1705414076831</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414076831</updated>
+    </task>
+    <task id="LOCAL-00005" summary="week 2 day 2 esercizio  completato">
+      <option name="closed" value="true" />
+      <created>1705416378067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705416378067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="week 2 day 2 esercizio  completato">
+      <option name="closed" value="true" />
+      <created>1705420524639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420524639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="week 2 day 3 esercizio  completato">
+      <option name="closed" value="true" />
+      <created>1705505060440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705505060440</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week 2 day 1 esercizio 1 completato" />
+    <MESSAGE value="week 2 day 2 esercizio  completato" />
+    <MESSAGE value="week 2 day 3 esercizio  completato" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 day 3 esercizio  completato" />
+  </component>
+</project>
