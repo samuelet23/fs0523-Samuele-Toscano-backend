@@ -4,57 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00fecb23-6171-477b-a41a-cb243e5a3976" name="Changes" comment="prova">
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/libraries/logback_classic_1_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/corso_epicode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day1/esercizio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day1/esercizio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day2/esercizio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day2/esercizio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day2/esercizio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day2/esercizio4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio1/esercizio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio1/rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio2/Chiamate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio2/Sim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio3/Articolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio3/Carrello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day3/esercizio3/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day4/Dipartimento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day4/Dipendente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day4/Livello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/day4/gestioneDipendenti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/Audio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/Immagine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/PlayerMultimediale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/Riproducibile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/Video.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week1/progettoSettimanale/lettoreMultimediale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio1/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio2/auto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio2/autoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio3/Banca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio3/BancaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio3/ContoCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day1/esercizio3/ContoOnline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day2/Esercizio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day2/Esercizio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day2/Esercizio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day2/MessageException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day3/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day3/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day3/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day3/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/epicode/week2/day3/usaSito.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/it/it.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs0523-Samuele-Toscano-backend/src/logback.xml" beforeDir="false" />
+    <list default="true" id="00fecb23-6171-477b-a41a-cb243e5a3976" name="Changes" comment="aggiunta gestione errori">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samuele Toscano/Desktop/logger/slf4j-api-2.0.9.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samuele Toscano/Desktop/epicode-backend/Maven corso-epicode/src/main/java/week2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -109,6 +60,21 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Samuele Toscano\Desktop\epicode-backend\Maven corso-epicode\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="epicode-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="epicode-backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -158,12 +124,22 @@
       <option name="project" value="LOCAL" />
       <updated>1705657602890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aggiunta gestione errori">
+      <option name="closed" value="true" />
+      <created>1705680161171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705680161171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Esercizio week 2 Day 4 completo senza extra" />
+    <MESSAGE value="progetto settimanale completato" />
     <MESSAGE value="prova" />
-    <option name="LAST_COMMIT_MESSAGE" value="prova" />
+    <MESSAGE value="aggiunta gestione errori" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunta gestione errori" />
   </component>
 </project>
