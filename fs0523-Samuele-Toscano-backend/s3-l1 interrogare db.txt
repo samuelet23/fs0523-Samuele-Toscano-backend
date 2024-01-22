@@ -1,6 +1,7 @@
 
+
 -- esercizio1
-select nome from esercizio.clienti where nome = 'mario'
+select nome from esercizio.clienti where nome like '%mario%'
 -- esercizio2
 select nome, cognome from esercizio.clienti where Extract(year from "annonascita") = 1982
 -- esercizio3
@@ -8,8 +9,8 @@ select * from esercizio.fatture where iva = 20;
 -- esercizio4
 select *
 from esercizio.prodotti
-where EXTRACT(YEAR FROM "dataattivazione") = 2017
-and (produzione = true OR commercio = true);
+where extract(year from "dataattivazione") = 2017
+and (produzione = true or commercio = true);
 -- esercizio5
 select*
 from esercizio.fatture
@@ -24,9 +25,19 @@ select
 from
   esercizio.fatture f
 inner join
-  esercizio.fornitori fo ON f.numerofornitore = fo.numerofornitore;
+  esercizio.fornitori fo on f.numerofornitore = fo.numerofornitore;
 -- esercizio7
 select*
 from esercizio.fatture f 
 where iva = 20 
 and (Extract(year from "datafattura") > 0 )
+-- esercizio 8
+select 
+  count(f.numerofattura) totfatture,
+  sum(f.importo) totsum
+from 
+  esercizio.fatture f
+group by 
+ extract(year from f.datafattura);
+
+
