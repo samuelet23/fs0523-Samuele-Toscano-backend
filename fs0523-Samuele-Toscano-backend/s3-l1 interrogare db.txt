@@ -1,0 +1,32 @@
+
+-- esercizio1
+select nome from esercizio.clienti where nome = 'mario'
+-- esercizio2
+select nome, cognome from esercizio.clienti where Extract(year from "annonascita") = 1982
+-- esercizio3
+select * from esercizio.fatture where iva = 20;
+-- esercizio4
+select *
+from esercizio.prodotti
+where EXTRACT(YEAR FROM "dataattivazione") = 2017
+and (produzione = true OR commercio = true);
+-- esercizio5
+select*
+from esercizio.fatture
+where importo <1000;
+-- esercizio6
+select
+ f.numerofattura,
+ f.importo,
+ f.iva,
+ f.datafattura,
+ fo.denominazione 
+from
+  esercizio.fatture f
+inner join
+  esercizio.fornitori fo ON f.numerofornitore = fo.numerofornitore;
+-- esercizio7
+select*
+from esercizio.fatture f 
+where iva = 20 
+and (Extract(year from "datafattura") > 0 )
